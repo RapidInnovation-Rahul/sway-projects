@@ -1,0 +1,8 @@
+[project]
+authors = ["Rahul"]
+entry = "main.sw"
+license = "Apache-2.0"
+name = "wallet_contract"
+
+[dependencies]
+MyLib = { path ="/home/rahul_sangita/Desktop/Office/Sway-Projects/Wallet Smart Contract/wallet_abi"}
